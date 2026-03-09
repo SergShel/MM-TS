@@ -106,8 +106,9 @@ If you find this work useful, please cite:
     author    = {Sheludzko, Siarhei and Duka, Dhimitrios and Schiele, Bernt and Kuehne, Hilde and Kukleva, Anna},
     title     = {MM-TS: Multi-Modal Temperature and Margin Schedules for Contrastive Learning with Long-Tail Data},
     booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
-    month     = {February},
-    year      = {2026}
+    month     = {March},
+    year      = {2026},
+    pages     = {7376-7386}
 }
 ```
 
