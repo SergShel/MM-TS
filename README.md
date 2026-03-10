@@ -1,6 +1,9 @@
 # MM-TS: Multi-Modal Temperature and Margin Schedules for Contrastive Learning with Long-Tail Data
 
 <p align="center">
+  <a href="https://arxiv.org/abs/2603.08202">
+    <img src="https://img.shields.io/badge/arXiv-2603.08202-b31b1b" />
+  </a>
   <a href="https://openaccess.thecvf.com/content/WACV2026/papers/Sheludzko_MM-TS_Multi-Modal_Temperature_and_Margin_Schedules_for_Contrastive_Learning_with_WACV_2026_paper.pdf">
     <img src="https://img.shields.io/badge/Paper-WACV%202026-blue" />
   </a>
